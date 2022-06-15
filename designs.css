@@ -1,0 +1,66 @@
+.light-grey1
+    {
+        color: rgb(226, 12, 12);
+            background-color:rgba(221, 19, 19, 0.24)
+    }
+.content
+{
+    margin-left:auto;
+    margin-right:auto;
+    max-width:1140px;
+}
+.margin-top{margin-top:16px}
+.margin-bottom{margin-bottom:16px}
+.margin-right{margin-right:16px}
+.row-padding:after,.row-padding:before
+{content:"";display:table;clear:both}
+.third
+{float:left;width:100%;
+    width:33.33333%;
+    padding:0 8px
+}
+.white
+{color:rgba(201, 70, 92, 0.651);background-color:#fff}
+
+.text-grey
+{color:#e25081b9}
+.xxlarge{font-size:36px}
+.card-4
+{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+}
+.display-container{position:relative;
+}
+.display-container:hover
+{
+    display:block;
+    display:inline-block;
+}
+.display-bottomleft{position:absolute;left:0;bottom:0}.w3-display-bottomright{position:absolute;right:0;bottom:0}
+.container:after,.container:before
+{content:"";display:table;clear:both}
+.container
+{
+    padding:0.01em 16px
+}
+.text-black,.hover-text-black:hover{color:#000}
+.margin-right{margin-right:16px!}
+.large{font-size:18px}
+.text-teal,.hover-text-teal:hover{color:#e61134}
+.twothird{float:left;width:100%;
+    width:66.66666%;
+    padding:0 8px}
+    .padding-1{padding-top:16px;padding-bottom:16px}
+    .opacity,.hover-opacity:hover{opacity:0.60}.opacity-off,.hover-opacity-off:hover{opacity:1}
+    .opacity-max{opacity:0.25}.opacity-min{opacity:0.75}
+    .tag{background-color:rgb(255, 1, 1);color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}
+    .badge{border-radius:50%}
+    .teal,.hover-teal:hover{color:#fff;background-color:#009688}
+    .round
+    {
+ padding:0 8px}
+
+ .center
+ {text-align:center;
+    display:inline-block;width:auto;
+}
